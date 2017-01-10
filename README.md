@@ -1,6 +1,5 @@
 # scientific2StandardDecimal
 
-# scientific2StandardInteger
 
 If you have a table with mixed E-notations scientific numbers and numbers in a standard form you can use this code in awk to transform it completely into standard form.
 
